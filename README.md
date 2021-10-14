@@ -10,3 +10,13 @@
   <li>Create / Rename / Delete flashcard decks</li>
   <li>Add / Delete / Edit flashcards</li>
 </ul>
+
+
+<h2>Skills</h2>
+<br>
+<ul>
+  <li>React</li>
+  <li>React Hooks</li>
+  <li>JavaScript</li>
+  <li>CSS</li>
+</ul>
