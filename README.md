@@ -2,7 +2,6 @@
 <br>
 <p>This is a front-end application project built in React and Javascript that allows a user to flip through decks of flashcards to test their knowledge.</p>
 
-
 <h2>Features</h2>
 <br>
 <ul>
@@ -10,7 +9,6 @@
   <li>Create / Rename / Delete flashcard decks</li>
   <li>Add / Delete / Edit flashcards</li>
 </ul>
-
 
 <h2>Skills</h2>
 <br>
