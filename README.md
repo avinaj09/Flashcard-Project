@@ -13,8 +13,12 @@
 <h2>Skills</h2>
 <br>
 <ul>
-  <li>React</li>
+  <li>React</li>![flascard](https://user-images.githubusercontent.com/87321366/137398864-5d6816b1-7416-4813-95a0-f547298803be.png)
+
   <li>React Hooks</li>
   <li>JavaScript</li>
   <li>CSS</li>
 </ul>
+
+
+![Uploading flascard.png…]()
